@@ -1098,6 +1098,10 @@ a {
     padding-right: 4rem;
   }
 }
+.cid-sW1dvcJ6wz .mbr-text,
+.cid-sW1dvcJ6wz .social-row {
+  text-align: left;
+}
 .cid-sW1e6l3Pnm {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -1252,8 +1256,8 @@ a {
   }
 }
 .cid-sW1dwDnWm1 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 4rem;
   background-color: #ffffff;
 }
 .cid-sW1dwDnWm1 .embla__slide {
